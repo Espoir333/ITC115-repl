@@ -7,7 +7,7 @@ If the number of repetitions is zero or less, the method should return an empty 
 public class work4_1 {
 	public static void main (String args[]) {
 	
-		System.out.println(repl("leo",5));
+		System.out.println(repl("Espoir",5));
 		
 	}
 	
